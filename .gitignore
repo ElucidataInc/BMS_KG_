@@ -1,1 +1,5 @@
+gene2go.gz
 gene2go.txt
+*.bak
+__pycache__/
+bms/
